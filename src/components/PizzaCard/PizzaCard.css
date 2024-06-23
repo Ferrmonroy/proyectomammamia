@@ -1,0 +1,28 @@
+.pizza-description-12 {
+  font-size: 12px;
+  min-height: 130px;
+  text-align: justify;
+}
+
+.pizza-title {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.card-fx:hover {
+  transform: scale(1.05);
+}
+
+.card-fx {
+  transition: transform 0.3s;
+}
+
+.card-body {
+  border: 5px solid #bfbea2;
+}
+
+.badge-info {
+  color: #fff;
+  background-color: #b81754;
+}
